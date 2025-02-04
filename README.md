@@ -1,5 +1,5 @@
 ### Hi there 👋
-### NOTE: I own two github accounts of which this was my first. I changed the username of my active github account(github.com/hisyntax) to [github.com/iqquee](https://github.com/iqquee) and i still wish to retain the username *hisyntax* and as such I assigned it to the pervious github account as a means to serve as a redirect to my origin account (prevoiusly github.com/hisyntax) which is now renamed to github.com/iqquee.
+### NOTE: I own two github accounts of which this was my first. I changed the username of my active github account(github.com/iqquee) to [github.com/jiyamathias](https://github.com/jiyamathias), I still wish to retain the username *iqquee*, and as such I assigned it to the pervious github account as a means to serve as a redirect to my active account (prevoiusly github.com/iqquee) which is now renamed to github.com/jiyamathias.
 ## Sorry for the inconvenience. Thank you
 
 <!--
